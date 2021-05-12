@@ -1,0 +1,5 @@
+たらばがに,4000,taraba.gif
+毛がに,2500,ke.gif
+いか,500,ika.gif
+うに,3000,uni.gif
+あわび,1500,awabi.gif
